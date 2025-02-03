@@ -1,6 +1,6 @@
 # JavaScript Calculator
 
-A simple and interactive calculator built using HTML, CSS, and JavaScript. This project demonstrates the basics of front-end web development, including DOM manipulation, event handling, and responsive design.
+A simple and interactive calculator built using HTML, CSS, and JavaScript. This project demonstrates the basics of front-end web development.
 
 ## Features
 
@@ -18,4 +18,16 @@ A simple and interactive calculator built using HTML, CSS, and JavaScript. This 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Mona-stery/javaScript-Calculator.git
+   git clone https://github.com/Mona-stery/JavaScript-Calculator.git
+
+## Acknowledgments
+
+- Inspired by various online tutorials and projects.
+
+## Contact
+For any questions or feedback, feel free to reach out:
+
+Maxmilian Aitcheson - aitchesonmaximilian@gmail.com
+
+Project Link: [https://github.com/Mona-stery/JavaScript-calculator](https://github.com/Mona-stery/JavaScript-Calculator)
+
